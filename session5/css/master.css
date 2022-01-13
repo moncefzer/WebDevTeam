@@ -1,0 +1,34 @@
+div {
+  height: 300px;
+  background-image: url("../images/background-image.png");
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  /* background-size: contain;*/
+  /*background-size: 250px auto;*/
+  background-size: cover;
+  /* background-attachment: fixed; */
+  /* background-position: center center; */
+}
+
+.login-btn {
+  display: inline-block;
+  background-color: yellow;
+  color: black;
+  padding: 50px;
+  /* border-style: solid;
+  border-color: red;
+  border-width: 20px; */
+  /* border: solid 10px rgb(212, 82, 82); */
+  font-size: 40px;
+  /* margin: 100px; */
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.left {
+  display: inline-block;
+}
+.right {
+  /* margin-left: 40px; */
+}

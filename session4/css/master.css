@@ -1,0 +1,23 @@
+p {
+  color: rgb(226, 241, 9);
+  font-size: 14px;
+  font-weight: 900;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-shadow: 1px 1px 1px red;
+  /* text-align: center; */
+  /* direction: rtl; */
+  text-transform: capitalize;
+  letter-spacing: -1px;
+  word-spacing: 20px;
+  line-height: 1.5;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+body {
+background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
